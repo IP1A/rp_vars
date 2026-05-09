@@ -1,3 +1,8 @@
+--[[
+  Please do not remove this comment
+  Made by b1est.
+]]
+
 if (rp.vars) then return end;
 
 local a = {
